@@ -5,9 +5,6 @@
 ## Sou estatístico, futuro mestre em estatística !!
 
 - :closed_book: Sou formado em Estatística pela Universidade Estadual da Paraíba (UEPB)
-- :green_book: Estou finalizando meu mestrado em Estatístca pela Universidade Federal de Lavras (UFLA)
-- 🌱 Atualmente estou aprendendo de tudo! 🤣
-- :rose: Machine Learning é a menina dos olhos :heart_eyes:
 - :computer: Tenho experiência em vários tipos de análises estatisticas! 
 - ⚡ Hobbies: Amo jogar xadrez, tocar ukulele, violão e ultimamente estou aprendendo a editar vídeos!
 
