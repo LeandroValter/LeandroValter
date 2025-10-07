@@ -29,16 +29,6 @@ Tenho experiência com **Python, R, SQL**, modelagem estatística e Machine Lear
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroValter&show_icons=true&theme=tokyonight&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroValter&layout=compact&theme=tokyonight&v=1)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LeandroValter&theme=tokyonight&v=1)
-
----
-
 ## ✉️ Contato & Redes
 
 - LinkedIn: [linkedin.com/in/leandrovalter](https://www.linkedin.com/in/leandrovalter)  
